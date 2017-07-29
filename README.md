@@ -1,0 +1,3 @@
+# DistractedDriverDetection
+kaggle上DistractedDriverDetection比赛，训练集是一些司机的驾驶照片，训练一个分类器来判断司机的驾驶状态，总共有十个类别。
+我使用了预训练VGGNet训练了一个简单的CNN来做判别。
